@@ -1,5 +1,4 @@
-# Reply to “Comment on ‘Finite size corrections to the radiation reaction force in
-classical electrodynamics’ ”
+# Reply to “Comment on ‘Finite size corrections to the radiation reaction force in classical electrodynamics’ ”
 
 <!DOCTYPE html>
 <!--

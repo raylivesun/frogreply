@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="netbeans.frogreply.branding">
+    <module_version install_time="1714768526974" last="true" origin="installer" specification_version="4.0.0">
+        <file crc="449845579" name="config/Modules/netbeans-frogreply-branding.xml"/>
+        <file crc="1803952887" name="core/locale/core_frogreply.jar"/>
+        <file crc="3704139052" name="modules/locale/org-netbeans-core-windows_frogreply.jar"/>
+        <file crc="736374304" name="modules/locale/org-netbeans-core_frogreply.jar"/>
+        <file crc="1954610446" name="modules/netbeans-frogreply-branding.jar"/>
+    </module_version>
+</module>

@@ -1,5 +1,3 @@
-# Reply to “Comment on ‘Finite size corrections to the radiation reaction force in classical electrodynamics’ ”
-
 <!DOCTYPE html>
 <!--
 Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
